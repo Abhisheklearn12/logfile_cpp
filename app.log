@@ -1,0 +1,6 @@
+User(id=1, name='Alice', score=95.50)
+User(id=2, name='Bob', score=87.30)
+User(id=3, name='Charlie', score=91.20)
+User(id=1, name='Alice', score=95.50)
+User(id=2, name='Bob', score=87.30)
+User(id=3, name='Charlie', score=91.20)
